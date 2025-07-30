@@ -65,6 +65,5 @@ public class rev{
                      {4,5,6},
                      {7,8,9}};
         transpose(arr);
-        // reverse(arr);
     }
 }
